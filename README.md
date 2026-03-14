@@ -28,7 +28,7 @@ Gatekeeper Pass
 </p>
 
 ## Reflektion
-En säker container är en mindre container. Istället för att köra en full Python kör man en slimmad version som har mycket mindre bloat. I scan-after.txt listas betydligt färre libraries än i scan-before.txt. Om ett library inte finns så behöver man inte oroa sig för att det är sårbart, eller härda just det. 
+En säker container är en mindre container. Istället för att köra en full Python kör man en slimmad version som har mycket mindre bloat. I `scan-after.txt` listas betydligt färre libraries än i `scan-before.txt`. Om ett library inte finns så behöver man inte oroa sig för att det är sårbart, eller härda just det. 
 En SBOM visar vilka libraries som finns i projektet, och då är det lätt att se om man har ett library med kända sårbarheter. Man kan även tänka sig att det hjälper andra utvecklare när de ska patcha eller förnya projektet att se hur föregående gjorde.
 Gatekeeper ser till att man inte deployar appar med säkerhetsrisker. Det kan vara saker som att man tillåter att appen kör som root, eller fel och sårbarheter som Kubernetes inte bryr sig om. 
 
