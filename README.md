@@ -1,5 +1,5 @@
 # LAB 2
-## $\color{#8A2BE2}{\text{Container }}\color{#00BFFF}{\text{Security}}$
+## $\color{#8A2BE2}\text{C}\color{#7B43E8}\text{o}\color{#6C5BEF}\text{n}\color{#5D73F5}\text{t}\color{#4E8BFC}\text{a}\color{#3FA3FF}\text{i}\color{#30BBFF}\text{n}\color{#21D3FF}\text{e}\color{#12EBFF}\text{r} \space \color{#03FFFF}\text{Security}$
 
 [Screenshots](#screenshots)  
 [Reflektion](#reflektion)  
