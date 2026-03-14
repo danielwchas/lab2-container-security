@@ -1,10 +1,10 @@
 # LAB 2
 ## Container Security
 
-[Screenshots](#screenshots)
-[Reflektion](#reflektion)
-[Vad jag har gjort](#vad-jag-har-gjort)
-[Verktyg](#verktyg)
+[Screenshots](#screenshots) 
+[Reflektion](#reflektion) 
+[Vad jag har gjort](#vad-jag-har-gjort) 
+[Verktyg](#verktyg) 
 
 ## Screenshots
 Trivy Before
@@ -38,13 +38,13 @@ Därefter har jag genererat en SBOM (Software Bill Of Materials). även det med 
 Slutligt testade jag på Gatekeeper via Team Flags-interfacet. Där ser man att en dålig Pod är **väldigt** sårbar, medans en härdad Pod går igenom med kanske en varning.
 
 ## Verktyg
-För labben
+För labben 
 * Trivy
 * Docker
 * Kubernetes
 * Gatekeeper
-* Github CLI
-För dokumentationen
+* Github CLI 
+För dokumentationen 
 * fresh editor
 * OnlyOffice
 * Skärmklippverktyget i KDE Plasma
