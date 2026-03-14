@@ -1,5 +1,5 @@
 # LAB 2
-## Container Security
+## $\color{#8A2BE2}\text{Container }\color{#00BFFF}\text{Security}$
 
 [Screenshots](#screenshots)  
 [Reflektion](#reflektion)  
