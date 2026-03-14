@@ -1,4 +1,4 @@
-# $\color{#8B0000}\text{C}\color{#950E0E}\text{o}\color{#A01D1D}\text{n}\color{#AB2B2B}\text{t}\color{#B53A3A}\text{a}\color{#C04848}\text{i}\color{#CB5757}\text{n}\color{#D56565}\text{e}\color{#E07474}\text{r}\space\color{#EB8282}\text{S}\color{#F59191}\text{e}\color{#FF9F9F}\text{c}\color{#FFAE80}\text{u}\color{#FFBC60}\text{r}\color{#FFCB40}\text{i}\color{#FFD920}\text{t}\color{#FFE800}\text{y}$
+# $\color{red}\text{LAB 2}$
 ## $\color{#8B0000}\text{C}\color{#950E0E}\text{o}\color{#A01D1D}\text{n}\color{#AB2B2B}\text{t}\color{#B53A3A}\text{a}\color{#C04848}\text{i}\color{#CB5757}\text{n}\color{#D56565}\text{e}\color{#E07474}\text{r}\space\color{#EB8282}\text{S}\color{#F59191}\text{e}\color{#FF9F9F}\text{c}\color{#FFAE80}\text{u}\color{#FFBC60}\text{r}\color{#FFCB40}\text{i}\color{#FFD920}\text{t}\color{#FFE800}\text{y}$
 
 [Screenshots](#screenshots)  
